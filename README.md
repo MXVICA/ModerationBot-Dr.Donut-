@@ -1,5 +1,5 @@
 
-# Discord Moderation Bot
+# Discord Moderation Bot - WORK IN PROGRESS
 ## Introduction
 #### This Discord bot is designed to assist staff in moderating their Discord channels by creating tickets, updating their status, and performing various moderation tasks. The bot interacts with a MySQL database to store and retrieve information. Below is a guide on how to set up and use the bot effectively.
 
