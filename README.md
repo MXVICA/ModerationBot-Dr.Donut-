@@ -58,12 +58,12 @@ Make sure to customize the role names and channel IDs as per your Discord server
 Review the code comments for additional information and customization options.
 
 # Upcoming Features
-#####Play Music through URL
-#####Re-Open closed tickets
-#####Search Tickets by User
+Play Music through URL
+Re-Open closed tickets
+Search Tickets by User
 
 # Contributors
 ### Alexander Carrillo (MXVI)
 
-##### Feel free to contribute to the project by submitting issues or pull requests.
-#####Thank you for using the Discord Moderation Bot! If you have any questions or encounter issues, feel free to reach out to the contributors.
+Feel free to contribute to the project by submitting issues or pull requests.
+Thank you for using the Discord Moderation Bot! If you have any questions or encounter issues, feel free to reach out to the contributors.
